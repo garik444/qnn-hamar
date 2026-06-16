@@ -1,0 +1,7 @@
+ShopProject/
+│
+├── README.md
+├── database.sql
+│
+└── src/
+    └── Main.java
